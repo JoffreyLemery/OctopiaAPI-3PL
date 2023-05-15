@@ -3,7 +3,7 @@ API integration of 3PL accros the world - Product Owner Position
 
 
 <h2>Description</h2>
-Development of a rapid and scalable tools for fast 3PL integration over the world
+Development of rapid and scalable tools for fast 3PL integration over the world
 <br />
 
 
